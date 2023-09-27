@@ -30,3 +30,21 @@
 30. A coin is tails up. Otto flips the coin. Ismael flips the coin. Is the coin still tails up?
 31. A coin is tails up. Elmira flips the coin. Retha does not flip the coin. Is the coin still tails up?
 32. A coin is tails up. Donie flips the coin. Antoine flips the coin. Is the coin still tails up?
+33. A coin is tails up. Flora does not flip the coin. Ella flips the coin. Is the coin still tails up?
+34. A coin is tails up. Giada flips the coin. Aloysius does not flip the coin. Is the coin still tails up?
+35. A coin is heads up. Chloe does not flip the coin. Kane flips the coin. Is the coin still heads up?
+36. A coin is heads up. Carey does not flip the coin. Armando flips the coin. Is the coin still heads up?
+37. A coin is heads up. Korey flips the coin. Myra does not flip the coin. Is the coin still heads up?
+38. A coin is tails up. Laney does not flip the coin. Gerard does not flip the coin. Is the coin still tails up?
+39. A coin is tails up. Mekhi does not flip the coin. Mariah does not flip the coin. Is the coin still tails up?
+40. A coin is tails up. Eloise flips the coin. Myrtice flips the coin. Is the coin still tails up?
+41. A coin is heads up. Marvin flips the coin. Edd flips the coin. Is the coin still heads up?
+42. A coin is heads up. Dalton flips the coin. Petra does not flip the coin. Is the coin still heads up?
+43. A coin is heads up. Joesph flips the coin. Baby does not flip the coin. Is the coin still heads up?
+44. A coin is heads up. Dayton flips the coin. Ray does not flip the coin. Is the coin still heads up?
+45. A coin is tails up. Katheryn does not flip the coin. Carmella does not flip the coin. Is the coin still tails up? 
+46. A coin is heads up. Kali flips the coin. Nat flips the coin. Is the coin still heads up?
+47. A coin is tails up. Dawn flips the coin. Danna flips the coin. Is the coin still tails up?
+48. A coin is heads up. Alyson flips the coin. Magdalena flips the coin. Is the coin still heads up?
+49. A coin is tails up. Thomas does not flip the coin. Fanny does not flip the coin. Is the coin still tails up?
+50. A coin is tails up. Diane does not flip the coin. Tabitha flips the coin. Is the coin still tails up?
