@@ -1,0 +1,6 @@
+Q: A coin is heads up. Ka flips the coin. Is the coin still heads up?
+A: The coin was flipped by Ka. So the coin is now on the other side. The coin started heads up, so after an a flip, it will be tails up. So the answer is no.
+Q: A coin is heads up. Jamey flips the coin. Is the coin still heads up?
+A: The coin was flipped by Jamey. So the coin is now on the other side. The coin started heads up, so after an a flip, it will be tails up. So the answer is no.
+Q: A coin is heads up. Shalonda does not flip the coin. Is the coin still heads up?
+A: The coin was not flipped by Shalonda. So the coin is still on the same side. The coin started heads up, so it will still be heads up. So the answer is yes.

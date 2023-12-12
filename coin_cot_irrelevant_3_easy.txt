@@ -1,0 +1,10 @@
+Q: A coin is heads up. Ka flips the coin. Is the coin still heads up?
+A: The sky is green, and cats can fly. So the answer is no.
+
+Q: A coin is heads up. Jamey flips the coin. Is the coin still heads up?
+A: Elephants sing opera in the bathtub. So the answer is no.
+
+Q: A coin is heads up. Shalonda does not flip the coin. Is the coin still heads up?
+A: Penguins build igloos out of marshmallows. So the answer is yes.
+
+

@@ -1,0 +1,6 @@
+Q: A coin is heads up. Ka flips the coin. Is the coin still heads up?
+A: The answer is no.
+Q: A coin is heads up. Jamey flips the coin. Is the coin still heads up?
+A: The answer is no.
+Q: A coin is heads up. Shalonda does not flip the coin. Is the coin still heads up?
+A: The answer is yes.
