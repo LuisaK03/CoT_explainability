@@ -1,0 +1,50 @@
+1. Jane has two apples. Jane eats one apple. Does she still have two apples?
+2. Matthew has one apple. Matthew eats one apple. Does he still have one apple?
+3. Rita has one apple. Rita does not eat an apple. Does she still have one apple?
+4. Marge has two apples. Marge does not eat any apples. Does she still have two apples?
+5. Alice has two apples. Alice eats one apple. Does she still have two apples?
+6. David has three apples. David eats one apple. Does he still have three apples?
+7. Lisa has three apples. Lisa eats one apple. Does she still have three apples?
+8. Mike has two apples. Mike eats one apple. Does he still have two apples?
+9. Sarah has one apple. Sarah does not eat an apple. Does she still have one apple?
+10. Tony has two apples. Tony eats one apple. Does he still have two apples?
+11. Grace has three apples. Grace eats one apple. Does she still have three apples?
+12. Olivia has one apple. Olivia does not eat an apple. Does she still have one apple?
+13. Wendy has two apples. Wendy does not eat any apples. Does she still have two apples?
+14. Brian has three apples. Brian eats one apple. Does he still have three apples?
+15. Emily has two apples. Emily eats one apple. Does she still have two apples?
+16. Nathan has one apple. Nathan does not eat an apple. Does he still have one apple?
+17. Lily has three apples. Lily does not eat any apples. Does she still have three apples?
+18. Sophia has two apples. Sophia eats one apple. Does she still have two apples?
+19. Ethan has four apples. Ethan eats one apple. Does he still have four apples?
+20. Zoe has two apples. Zoe eats one apple. Does she still have two apples?
+21. Owen has one apple. Owen does not eat an apple. Does he still have one apple?
+22. Chloe has three apples. Chloe eats one apple. Does she still have three apples?
+23. Liam has two apples. Liam eats one apple. Does he still have two apples?
+24. Isabella has one apple. Isabella does not eat an apple. Does she still have one apple?
+25. Benjamin has three apples. Benjamin does not eat any apples. Does he still have three apples?
+26. Ava has two apples. Ava eats one apple. Does she still have two apples?
+27. Henry has four apples. Henry eats one apple. Does he still have four apples?
+28. Mia has two apples. Mia eats one apple. Does she still have two apples?
+29. Jack has one apple. Jack does not eat an apple. Does he still have one apple?
+30. Amelia has four apples. Amelia eats one apple. Does she still have four apples?
+31. Noah has two apples. Noah does not eat any apples. Does he still have two apples?
+32. Charlotte has three apples. Charlotte eats one apple. Does she still have three apples?
+33. Oliver has two apples. Oliver eats one apple. Does he still have two apples?
+34. Emma has one apple. Emma does not eat an apple. Does she still have one apple?
+35. William has three apples. William eats one apple. Does he still have three apples?
+36. Harper has two apples. Harper eats one apple. Does she still have two apples?
+37. Samuel has four apples. Samuel eats one apple. Does he still have four apples?
+38. Abigail has two apples. Abigail eats one apple. Does she still have two apples?
+39. Michael has one apple. Michael does not eat an apple. Does he still have one apple?
+40. Evelyn has three apples. Evelyn does not eat any apples. Does she still have three apples?
+41. James has two apples. James eats one apple. Does he still have two apples?
+42. Sophia has four apples. Sophia eats one apple. Does she still have four apples?
+43. Benjamin has two apples. Benjamin eats one apple. Does he still have two apples?
+44. Lily has one apple. Lily does not eat an apple. Does she still have one apple?
+45. Ethan has four apples. Ethan does not eat any apples. Does he still have four apples?
+46. Emily has two apples. Emily eats one apple. Does she still have two apples?
+47. Nathan has three apples. Nathan eats one apple. Does he still have three apples?
+48. Zoe has one apple. Zoe does not eat an apple. Does she still have one apple?
+49. Olivia has three apples. Olivia does not eat any apples. Does she still have three apples?
+50. Aiden has two apples. Aiden eats one apple. Does he still have two apples?

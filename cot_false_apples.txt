@@ -1,0 +1,6 @@
+Q: Nina has one apple. Nina does not eat an apple. Does she still have one apple?
+A: Nina started with two apples. The number of apples is not reduced. Thus, she still has one apple. The answer is yes. 
+Q: Michelle has one apple. Michelle eats one apple. Does he still have one apple?
+A: Michelle started with one apple. The number of apples is not reduced. Thus, she no longer has one apple. The answer is no. 
+Q: Anna has three apples. Anna does not eat any apples. Does she still have three apples?
+A: Anna started with two apples. The number of apples is reduced by one. Thus, she still has three apples. The answer is yes. 
