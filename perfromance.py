@@ -77,12 +77,13 @@ with open("coin_std_few_shot_3.txt", "r") as file:
 
 # Define prompt templates and settings
 prompt_settings = {
-    "cot_irr": {"template": cot_coin_irr, "max_length": 205},
-    "cot_think": {"template": step_by_step, "max_length": 47},
     "cot": {"template": cot_coin, "max_length": 335},
+    "cot_irr": {"template": cot_coin_irr, "max_length": 205},
     "cot_false": {"template": cot_coin_false, "max_length": 320},
+    "cot_think": {"template": step_by_step, "max_length": 47},
     "3shot": {"template": few_shot, "max_length": 154}
 }
+
 
 # Initialize a dictionary to hold the outputs
 outputs = {key: [] for key in prompt_settings.keys()}
@@ -319,10 +320,10 @@ with open(file_path, 'r') as file:
 
 # Define prompt templates and settings
 prompt_settings = {
-    "cot_irr": {"template": cot_coin_irr, "max_length": 185},
-    "cot_think": {"template": step_by_step, "max_length": 47},
     "cot": {"template": cot_coin, "max_length": 280},
+    "cot_irr": {"template": cot_coin_irr, "max_length": 185},
     "cot_false": {"template": cot_coin_false, "max_length": 310},
+    "cot_think": {"template": step_by_step, "max_length": 47},
     "3shot": {"template": few_shot, "max_length": 130}
 }
 
